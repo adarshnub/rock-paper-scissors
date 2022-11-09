@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Advent+Pro:100);
 html { 
   background-color:aqua;
+  background:url(https://media.giphy.com/media/EzP85aNlqGXWo/giphy.gif) no-repeat center center fixed;
   background-size: cover;
 }
 
